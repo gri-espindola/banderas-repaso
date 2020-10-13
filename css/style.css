@@ -51,10 +51,10 @@
   width: 35%;
   height: 111.11px;
   float: left;
-  background-image: url(../sol.png);
+  background-color: white;
+  /* background-image: url(../sol.png);
   background-size: cover;
-  background-position: center;
-
+  background-position: center; */
 }
 
 .blanco-uruguay{
